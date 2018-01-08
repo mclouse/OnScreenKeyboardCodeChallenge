@@ -1,0 +1,9 @@
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\bin\Debug\OnScreenKeyboardCodeChallenge.exe.config
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\bin\Debug\OnScreenKeyboardCodeChallenge.exe
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\bin\Debug\OnScreenKeyboardCodeChallenge.pdb
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\obj\Debug\OnScreenKeyboardCodeChallenge.csprojResolveAssemblyReference.cache
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\obj\Debug\OnScreenKeyboardCodeChallenge.Form1.resources
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\obj\Debug\OnScreenKeyboardCodeChallenge.Properties.Resources.resources
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\obj\Debug\OnScreenKeyboardCodeChallenge.csproj.GenerateResource.Cache
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\obj\Debug\OnScreenKeyboardCodeChallenge.exe
+c:\users\alien-pc\documents\visual studio 2015\Projects\OnScreenKeyboardCodeChallenge\OnScreenKeyboardCodeChallenge\obj\Debug\OnScreenKeyboardCodeChallenge.pdb
